@@ -1,0 +1,89 @@
+Archive Data Values
+Outside Temperature		0	Temp	Out	7	0	Outside Temp	4663548	4663548	7895160	4663548	0	
+High Temperature		2048	Hi	Temp	7	0	Hi Temp	1507982	1507982	3618615	1507982	0	
+Low Temperature		3072	Low	Temp	7	0	Low Temp	7751706	7751706	4276545	7751706	0	
+Outside Humidity		65984	Out	Hum	6	0	Out Humidity	13823879	13823879	12961221	13823879	0	
+Outside Dewpoint		1	Dew	Pt.	7	0	Dewpoint	7176215	7176215	5723991	7176215	0	
+Wind Speed		131200	Wind	Speed	6	0	Wind Speed	14068765	14068765	8553090	14068765	0	
+Wind Direction		196800	Wind	Dir	6	0	Wind Direction	9585885	9585885	9013641	9585885	0	
+Wind Run		132679	Wind	Run	7	0	Wind Run	12412531	12412531	8158332	12412531	0	
+High Wind Speed		133248	Hi	Speed	6	0	Hi Wind Speed	12872747	12872747	6776679	12872747	0	
+High Wind Direction		198848	Hi	Dir	6	0	Hi Wind Dir	13508095	13508095	9474192	13508095	0	
+Wind Chill		2	Wind	Chill	7	0	Wind Chill	13124212	13124212	7237230	13124212	0	
+Heat Index		3	Heat	Index	7	0	Heat Index	7240957	7240957	10921638	7240957	0	
+Temp-Hum-Wind Index		4	THW	Index	7	0	THW Index	4432895	4432895	11579568	4432895	0	
+Barometer		262368	^	Bar  	8	0	Barometer	8355711	8355711	8355711	8355711	0	
+Rain		328768	^	Rain	6	0	Rain	16676127	16676127	7500402	16676127	0	
+High Rain Rate		395360	Rain	Rate	6	0	Rain Rate	6962189	6962189	3487029	6962189	0	
+Solar Radiation		459072	Solar	Rad.	7	1	Solar Rad	8644860	8644860	14408667	8644860	0	
+Solar Energy		460137	Solar	Energy	8	0	Solar Energy	4771839	4771839	12961221	4771839	0	
+High Solar Radiation		461120	Hi Solar	Rad. 	9	2	Hi Solar Rad	8644860	8644860	8644860	8644860	0	
+UV Index		524672	UV 	Index	6	0	UV Index	11494646	11494646	10921638	11494646	0	
+UV Dose		525738	UV 	Dose	6	0	UV Dose	10584311	10584311	11579568	10584311	0	
+High UV Index		526720	Hi 	UV 	6	0	Hi UV Index	11494646	11494646	11494646	11494646	0	
+Heating Degree-Days		4260904	Heat	D-D 	8	0	Heating DD	9389248	9389248	8289918	9389248	0	
+Cooling Degree-Days		12518440	Cool	D-D 	8	0	Cooling DD	13334109	13334109	8289918	13334109	0	
+Inside Temperature		16777216	In 	Temp	7	0	Inside Temp	7199741	7199741	13750737	7199741	0	
+Inside Humidity		16843200	In	Hum	6	0	Inside Humidity	7908380	7908380	7303023	7908380	0	
+Inside Equalibrium Moisture Content		16843212	In 	EMC	7	0	In EMC	11904792	11904792	11904792	11904792	0	
+Inside Air Density		16843403	In Air	Density	8	1	In Air Density	16051905	16051905	16051905	16051905	0	
+Temperature 2		33554432	Temp	2nd	7	0	Temp 2nd	5521867	5521867	7697781	5521867	0	
+Temperature 3		50331648	Temp	3rd	7	0	Temp 3rd	7022051	7022051	7022051	7022051	0	
+Temperature 4		67108864	Temp	4th	7	0	Temp 4th	10765311	10765311	10765311	10765311	0	
+Humidity 2		33620416	Hum	2nd	7	0	Hum 2nd	8498797	8498797	9342606	8498797	0	
+Humidity 3		50397632	Hum	3rd	7	0	Hum 3rd	7055751	7055751	9539985	7055751	0	
+Evapotranspiration		1101	^	ET 	8	0	ET	12768751	12768751	14342874	12768751	0	
+Soil Moisture 1		151585248	Soil 1	Moist.	8	1	Soil Moist. 1	7373215	7373215	8947848	7373215	0	
+Soil Moisture 2		168362464	Soil 2	Moist.	8	1	Soil Moist. 2	6710988	6710988	9079434	6710988	0	
+Soil Moisture 3		185139680	Soil 3	Moist.	8	1	Soil Moist. 3	4999885	4999885	7895160	4999885	0	
+Soil Moisture 4		201916896	Soil 4	Moist.	8	1	Soil Moist. 4	5072820	5072820	8224125	5072820	0	
+Soil Temperature 1		150994944	Soil 	Temp 1	8	1	Soil Temp 1	6127338	6127338	10329501	6127338	0	
+Soil Temperature 2		167772160	Soil 	Temp 2	8	1	Soil Temp 2	7644415	7644415	12237498	7644415	0	
+Soil Temperature 3		184549376	Soil 	Temp 3	8	1	Soil Temp 3	4816895	4816895	4816895	4816895	0	
+Soil Temperature 4		201326592	Soil 	Temp 4	8	1	Soil Temp 4	7706061	7706061	10658466	7706061	0	
+Leaf Wetness 1		252314112	Leaf	Wet 1	7	1	Leaf Wet 1	8060790	8060790	11842740	8060790	0	
+Leaf Wetness 2		269091328	Leaf	Wet 2	7	1	Leaf Wet 2	12575391	12575391	12895428	12575391	0	
+Leaf Wetness 3		285868544	Leaf	Wet 3	7	1	Leaf Wet 3	10544296	10544296	10544296	10544296	0	
+Leaf Wetness 4		302645760	Leaf	Wet 4	7	1	Leaf Wet 4	13758634	13758634	13758634	13758634	0	
+Leaf Temperature 1		251658240	Leaf 	Temp 1	8	1	Leaf Temp 1	0	0	0	0	0	
+Leaf Temperature 2		268435456	Leaf 	Temp 2	8	1	Leaf Temp 2	0	0	0	0	0	
+Leaf Temperature 3		285212672	Leaf 	Temp 3	8	1	Leaf Temp 3	0	0	0	0	0	
+Leaf Temperature 4		301989888	Leaf 	Temp 4	8	1	Leaf Temp 4	0	0	0	0	0	
+Wind Samples		34341408	Wind	Samp	6	0	Wind Samples	0	0	0	0	0	
+Wind Transmitter		17564192	Wind	Tx 	6	1	Wind Tx	0	0	0	0	0	
+ISS Reception		51118528	ISS 	Recept	8	0	ISS Reception	13356575	13356575	9474192	13356575	0	
+Archive Interval		786976	Arc.	Int.	6	1	Archive Interval	0	0	0	0	0	
+Temp-Hum-Sun-Wind Index		5	THSW	Index	7	0	THSW Index	3700223	3700223	10066329	3700223	0	
+Extra Solar Radiation		17236288	Extra	Rad.	7	1	Ex. Solar Rad	8644860	8644860	14408667	8644860	0	
+Inside Dewpoint		16842753	In 	Dew	7	0	Inside Dewpoint	9877771	9877771	7697781	9877771	0	
+Inside Heat Index		16842755	In 	Heat	7	0	Inside Heat Index	5521867	5521867	7697781	5521867	0	
+.
+Daily Data Values
+Day Mean Outside Temperature		8192	Mean  	Out Temp	9	2	Day Out Temp	0	0	0	0	0	
+Day High Outside Temperature		4096	Hi Out	Temp 	7	1	Day Hi Out Temp	0	0	0	0	0	
+Day Low Outside Temperature		6144	Low Out	Temp 	8	1	Day Low Out Temp	0	0	0	0	0	
+Day Mean Heat Index		8195	Mean	Heat	7	0	Day Heat	0	0	0	0	0	
+Day High Heat Index		4099	Hi 	Heat	7	0	Day Hi Heat	0	0	0	0	0	
+Day Low Heat Index		6147	Low	Heat	7	0	Day Low Heat	0	0	0	0	0	
+Day Mean Wind Chill		8194	Mean	Chill	7	0	Day Mean Wind Chill	0	0	0	0	0	
+Day High Wind Chill		4098	Hi 	Chill	7	0	Day Hi Chill	0	0	0	0	0	
+Day Low Wind Chill		6146	Low 	Chill	7	0	Day Low Chill	0	0	0	0	0	
+Day Mean Outside Hum		74176	Mean  	Out Hum	9	2	Day Out Hum	0	0	0	0	0	
+Day High Outside Hum		70080	Hi  	Out Hum	8	2	Day Hi Out Hum	0	0	0	0	0	
+Day Low Outside Hum		72128	Low  	Out Hum	8	2	Day Low Out Hum	0	0	0	0	0	
+Day Mean Dewpoint		8193	Mean	Dew	7	0	Day Dewpoint	0	0	0	0	0	
+Day High Dewpoint		4097	Hi	Dew	7	0	Day Hi Dewpoint	0	0	0	0	0	
+Day Low Dewpoint		6145	Low	Dew	7	0	Day Low Dewpoint	0	0	0	0	0	
+.
+Overlay Variables Set
+Overlay Variable 1		0	^	^	7	0	Overlay 1	16676127	16676127	7500402	16676127	0	
+Overlay Variable 2		0	^	^	7	0	Overlay 2	10825819	10825819	5658198	10825819	0	
+Overlay Variable 3		0	^	^	7	0	Overlay 3	13823879	13823879	12961221	13823879	0	
+Overlay Variable 4		0	^	^	7	0	Overlay 4	13413119	13413119	13619151	13413119	0	
+Overlay Variable 5		0	^	^	7	0	Overlay 5	0	0	0	0	0	
+Overlay Variable 6		0	^	^	7	0	Overlay 6	7240957	7240957	10921638	7240957	0	
+Overlay Variable 7		0	^	^	7	0	Overlay 7	1257617	1257617	5000268	1257617	0	
+Overlay Variable 8		0	^	^	7	0	Overlay 8	7666941	7666941	14803425	7666941	0	
+Overlay Variable 9		0	^	^	7	0	Overlay 9	3232392	3232392	6184542	3232392	0	
+Overlay Variable 10		0	^	^	7	0	Overlay 10	16777215	16777215	15461355	16777215	0	
+.
