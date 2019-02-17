@@ -1,4 +1,4 @@
-# DataScience Materials
+# Console Games Sales Decline
 You have been hired to join the in-house Data Science team of a video games design company. The company designs games for computers but is considering getting into the console games business.
 Note: consoles refer to devices that are attached to TV’s. For example, Playstation.
 
