@@ -7,10 +7,15 @@ However, the executives of the company have noticed that other rival console gam
 On the Case Study page you will find a dataset with over 16,000 console game titles sold between 1980 and 2015. Sales are broken down into 4 regions and are shown in Millions of Dollars.
 
 The CSO (Chief Strategy Officer) has posed you the following questions:
-How have the total sales of console games been declining over the years by different genres?
-How do different platforms compare side-by-side in terms of aggregate global sales since their inceptions? Who is the leader?
-How do different publishers compare side-by-side in terms of aggregate global sales since their inceptions? Who is the leader?
-How do the New Generation (New Gen) consoles compare in terms of total global sales for combined 2014 and 2015? New Gen platforms in this dataset are PS4, XOne and WiiU.
-What are the top 10 game titles with the highest global sales?
+
+1. How have the total sales of console games been declining over the years by different genres?
+
+2. How do different platforms compare side-by-side in terms of aggregate global sales since their inceptions? Who is the leader?
+
+3. How do different publishers compare side-by-side in terms of aggregate global sales since their inceptions? Who is the leader?
+
+4. How do the New Generation (New Gen) consoles compare in terms of total global sales for combined 2014 and 2015? New Gen platforms in this dataset are PS4, XOne and WiiU.
+
+5. What are the top 10 game titles with the highest global sales?
 
 Good luck! The company’s future strategy depends on you!
