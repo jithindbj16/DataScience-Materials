@@ -13,4 +13,4 @@ How do different publishers compare side-by-side in terms of aggregate global sa
 How do the New Generation (New Gen) consoles compare in terms of total global sales for combined 2014 and 2015? New Gen platforms in this dataset are PS4, XOne and WiiU.
 What are the top 10 game titles with the highest global sales?
 
-Good luck! The company’s future strategy depends on you.
+Good luck! The company’s future strategy depends on you!
