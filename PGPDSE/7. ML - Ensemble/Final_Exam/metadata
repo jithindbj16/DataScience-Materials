@@ -1,0 +1,11 @@
+The goal is to predict climate model simulation outcomes (column 21, fail or succeed) given scaled values of climate model input parameters (columns 3-20). 
+
+Column 1: Latin hypercube study ID (study 1 to study 3) 
+
+Column 2: simulation ID (run 1 to run 180) 
+
+Columns 3-20: values of 18 climate model parameters scaled in the interval [0, 1] 
+
+Column 21: simulation outcome (0 = failure, 1 = success)
+
+
